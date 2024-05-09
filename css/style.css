@@ -88,4 +88,6 @@ section a{
     display: flex;
     align-items: center;
     margin: 35px;
+    background-color: gray;
+    padding: 15px;
 }
